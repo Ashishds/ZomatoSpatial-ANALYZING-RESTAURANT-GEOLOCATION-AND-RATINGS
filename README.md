@@ -4,6 +4,8 @@ This project analyzes a dataset of Zomato restaurants in Bengaluru to explore va
 
 ## Dataset Description
 
+The dataset used in this project can be downloaded from [Kaggle](https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset).
+
 The dataset contains the following columns:
 
 1. **url**: URL of the restaurant on the Zomato website.
@@ -45,8 +47,3 @@ You can install the required packages using:
 
 ```bash
 pip install pandas numpy matplotlib seaborn
-
-
-
-
-
